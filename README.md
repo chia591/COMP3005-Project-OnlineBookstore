@@ -4,7 +4,9 @@ Andy Chia - 101111058
 
 Application for an online bookstore
 
-## Requirements:
+<details>
+<summary>## Requirements:</summary>
+<br>
 - [ ] Search
   - [ ] Book Name
   - [ ] Author Name
@@ -51,5 +53,6 @@ Application for an online bookstore
   - [ ] ect...
 - [ ] Automation
   - [ ] When remaining quantity is less than a threshold, the application should automaticlly send an email to the publishers of the limited books to order a number of books that was sold in the previous month
+</details>
 
 ## notes
