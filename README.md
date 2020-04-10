@@ -6,7 +6,7 @@ Application for an online bookstore
 
 <details>
 <summary>## Requirements:</summary>
-<br>
+
 - [ ] Search
   - [ ] Book Name
   - [ ] Author Name
@@ -55,4 +55,18 @@ Application for an online bookstore
   - [ ] When remaining quantity is less than a threshold, the application should automaticlly send an email to the publishers of the limited books to order a number of books that was sold in the previous month
 </details>
 
-## notes
+## To Do (in a report file):
+1. [ ] ER-diagram of the database for the bookstore
+   - explanation of all the assumptions made in the diagram regarding cardinalities and participation types
+2. [ ] Reduce ER-diagram into relation schemas
+3. [ ] Normalization of Relation Schemas
+   1. [ ] Show that your relation schemas are either in a good normal form (show test), or not
+   2. [ ] Show how to decompose them into a good normal form (show decomposition work)
+   3. [ ] show testing work to make sure that they are in a good normal form
+4. [ ] Final Database schema diagram
+   - this can be similar to the schema diagram of the university database
+5. [ ] Implementation
+6. [ ] Bonus Features
+7. [ ] Github
+8. [ ] Time Slot 
+9. just go read the PDF,
